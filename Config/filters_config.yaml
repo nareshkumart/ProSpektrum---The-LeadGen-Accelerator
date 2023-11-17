@@ -1,0 +1,3 @@
+seniority_level_filter : ["CXO","Director","Vice President"]
+functions_filter : ["Information Technology", "Operations", "Marketing", "Engineering", "Sales", "Finance", "Purchasing"]
+exclude_industries_filter : ["IT Services and IT Consulting","Software Development","IT System Custom Software Development","Business Consulting and Services","Technology, Information and Media","Technology, Information and Internet","Information Services","Operations Consulting","Outsourcing and Offshoring Consulting"]
